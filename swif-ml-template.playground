@@ -1,0 +1,7 @@
+import CreateMLUI
+
+/*~~~~
+ This section is for image classification
+~~~~*/
+let builder = MLImageClassifierBuilder()
+builder.showInLiveView()
